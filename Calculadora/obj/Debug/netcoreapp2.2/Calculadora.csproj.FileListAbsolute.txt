@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.AssemblyInfo.cs
+C:\Users\victo\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.deps.json
+C:\Users\victo\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.runtimeconfig.json
+C:\Users\victo\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\victo\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\victo\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\victo\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\victo\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.genruntimeconfig.cache
