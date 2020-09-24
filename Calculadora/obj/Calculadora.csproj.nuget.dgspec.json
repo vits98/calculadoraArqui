@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj": {}
+    "D:\\Documents\\Calculadora-Refactorizada\\calculadoraArqui\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj": {
+    "D:\\Documents\\Calculadora-Refactorizada\\calculadoraArqui\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "D:\\Documents\\Calculadora-Refactorizada\\calculadoraArqui\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\victo\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj",
-        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\source\\repos\\Calculadora\\Calculadora\\obj\\",
+        "projectPath": "D:\\Documents\\Calculadora-Refactorizada\\calculadoraArqui\\Calculadora\\Calculadora.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Calculadora-Refactorizada\\calculadoraArqui\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
